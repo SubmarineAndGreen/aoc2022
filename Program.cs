@@ -9,7 +9,9 @@
             //new Day03().Run();
             //new Day04().Run();
             //new Day05().Run();
-            new Day06().Run();
+            //new Day06().Run();
+            //new Day07().Run();
+            new Day08().Run();
             Console.ReadLine();
         }
     }
